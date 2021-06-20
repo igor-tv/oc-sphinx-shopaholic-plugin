@@ -1,6 +1,6 @@
 <?php namespace Lovata\SphinxShopaholic\Classes\Helper;
 
-use sngrl\SphinxSearch\SphinxSearch;
+use Iweb\SphinxSearch\SphinxSearch;
 use October\Rain\Support\Facades\Config;
 use Lovata\Toolbox\Traits\Helpers\TraitInitActiveLang;
 
